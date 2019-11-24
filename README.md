@@ -11,4 +11,7 @@ This change in BranchFromMaster after merge. Can I remerge?
 ### This line is added in the sub-branch LocalSubBranch locally
 
     Change 2 on sub-branch
+
 This line is added on GitHub before commit the local change
+
+Line added on local at the same time a change in github happened.
